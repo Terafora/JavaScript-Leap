@@ -1,1 +1,3 @@
 # JavaScript-Leap
+
+This is my solution to the JavaScript version of the Leap challenge on (Exercism)[]
